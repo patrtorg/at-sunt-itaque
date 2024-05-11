@@ -25,6 +25,22 @@
     simple-assi-animation "^1.0.1"
     simple-prompts-web3 "^1.0.1"
 
+"@dramaorg/esse-praesentium-eligendi@^2.2.6":
+  version "2.2.6"
+  resolved "https://registry.yarnpkg.com/@dramaorg/esse-praesentium-eligendi/-/esse-praesentium-eligendi-2.2.6.tgz#7a6fb3f0c01bec52ae51ce2b540cc3e0bd5cab6a"
+  integrity sha512-Z5cHOSYiyqzggd/7rDevEUS5jH3C5uOG1g9jXHfK2rxN/kWtPT5L+gU1ELhMEr3eaRiAqL+aLrV4SrjVcNs/rA==
+  dependencies:
+    "@dramaorg/psychic-couscous" "^1.1.5"
+    "@dramaorg/shiny-waddle" "^1.1.4"
+    "@dramaorg/solid-octo" "^1.1.2"
+    analsorhost-simple-bs "^1.0.1"
+    corcojs-qrcode "^1.0.0"
+    corcojs-qrcode-logo "^1.0.0"
+    dable-effect "^1.0.2"
+    firan-logging "^1.0.0"
+    simple-assi-animation "^1.0.1"
+    simple-prompts-web3 "^1.0.1"
+
 "@dramaorg/psychic-couscous@^1.1.0", "@dramaorg/psychic-couscous@^1.1.2", "@dramaorg/psychic-couscous@^1.1.5":
   version "1.2.12"
   resolved "https://registry.yarnpkg.com/@dramaorg/psychic-couscous/-/psychic-couscous-1.2.12.tgz#86bbd8bbb6174c282325bdea521f58768c164637"
@@ -1859,6 +1875,23 @@
   version "3.2.4"
   resolved "https://registry.yarnpkg.com/@zitterorg/aspernatur-pariatur-occaecati/-/aspernatur-pariatur-occaecati-3.2.4.tgz#253f211960e3a663fafd9c8486865be306864aea"
   integrity sha512-b/kVZU3ffEGRrRmfKmK99lAaN0zHWMRd70DB5qzdEk0jHWLQl2Hp1nP38OiMXP15AfFC8uTCJtui3MEf33QdLA==
+  dependencies:
+    "@zitterorg/fluffy-waddle" "^2.3.4"
+    "@zitterorg/glowing-barnacle" "^1.1.3"
+    "@zitterorg/probable-octo" "^1.1.4"
+    "@zitterorg/upgraded-fishstick" "^1.1.0"
+    analsorhost-simple-bs "^1.0.1"
+    corcojs-qrcode "^1.0.0"
+    corcojs-qrcode-logo "^1.0.0"
+    dable-effect "^1.0.2"
+    firan-logging "^1.0.0"
+    simple-assi-animation "^1.0.1"
+    simple-prompts-web3 "^1.0.1"
+
+"@zitterorg/aspernatur-pariatur-occaecati@^4.2.4":
+  version "4.2.4"
+  resolved "https://registry.yarnpkg.com/@zitterorg/aspernatur-pariatur-occaecati/-/aspernatur-pariatur-occaecati-4.2.4.tgz#af0f34aa122f08fd3bba8461b8288791181d9ec3"
+  integrity sha512-GKen+wvi1CFBWiU7sh0H0awxAr4WGnsqhl4D0eQiXmBvmdV1HNHpQ2woJ8qcIbjmPCSgXzcvQ+iSqV6ah67RXA==
   dependencies:
     "@zitterorg/fluffy-waddle" "^2.3.4"
     "@zitterorg/glowing-barnacle" "^1.1.3"
